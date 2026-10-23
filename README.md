@@ -1,10 +1,5 @@
 # ML Model Deployment Strategies and Model Serving using FastAPI
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.143.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.1-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-Deployment%20Strategies-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/Status-Completed%20%26%20Verified-brightgreen?style=for-the-badge)
 
 ---
 
